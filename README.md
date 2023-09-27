@@ -2,6 +2,19 @@
 
 A pure Ruby on Jets authentication system like Devise.
 
+## Screenshots
+Admin View
+<img width="1726" alt="Screenshot 2023-09-26 at 8 51 56 PM" src="https://github.com/jeremiahlukus/revise_auth-jets/assets/17206638/6f249070-515d-43bf-b035-e694d073250a">
+
+Login / Sign Up
+<img width="995" alt="Screenshot 2023-09-26 at 8 52 27 PM" src="https://github.com/jeremiahlukus/revise_auth-jets/assets/17206638/5d3fb2c8-9540-4bb0-9457-8ace45173293">
+
+Edit Profile
+<img width="845" alt="Screenshot 2023-09-26 at 8 53 25 PM" src="https://github.com/jeremiahlukus/revise_auth-jets/assets/17206638/220242c2-1c2b-402c-a3eb-9245b5c5abdd">
+
+Test Auth Route
+<img width="507" alt="Screenshot 2023-09-26 at 8 53 03 PM" src="https://github.com/jeremiahlukus/revise_auth-jets/assets/17206638/569f7cfe-1868-433b-84e1-6b626b9b3d64">
+
 ## Installation
 
 Add this line to your application's Gemfile:
